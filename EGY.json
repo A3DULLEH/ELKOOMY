@@ -1,7 +1,7 @@
 {
   "magisk": {
-    "version": "b8694c99-delta",
-    "versionCode": "25206",
+    "version": "25.2-delta-6",
+    "versionCode": "25200",
     "link": "https://huskydg.github.io/magisk-files/app-debug.apk",
     "note": "https://huskydg.github.io/magisk-files/note.md"
   },
